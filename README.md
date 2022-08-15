@@ -1,9 +1,12 @@
-HTML CSS JavaScript
 
 ⫸ Hola, soy David
-⫸ Me encanta la programación y actualmente estoy aprendiend
+
+⫸ Me encanta la programación y actualmente estoy aprendiendll
+
 ⫸ Busco colaborar en proyectos de HTML, CSS, JavaScript, PHP, SQL y Marketing
+
 ⫸ Soy amante de la Naturalesa, las buenas energías, el diseño, el estilo y aprender!!
+
 ⫸ Espero que te gusten mis trabajos 😉
 
 <!---
