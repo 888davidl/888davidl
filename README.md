@@ -3,7 +3,7 @@
 
 ⫸ Me encanta la programación y actualmente estoy aprendiendll
 
-⫸ Busco colaborar en proyectos de HTML, CSS, JavaScript, PHP, SQL y Marketing
+⫸ Busco colaborar en proyectos de HTML, CSS, XML, JavaScript, PHP, SQL y Marketing
 
 ⫸ Soy amante de la Naturalesa, las buenas energías, el diseño, el estilo y aprender!!
 
